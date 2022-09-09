@@ -1,0 +1,20 @@
+{
+  "drink_names" : [
+    {
+      "id" :  1,
+      "drinkName" :  "글렌고인"
+    },
+    {
+      "id" :  2,
+      "drinkName" :  "글렌고인2"
+    },
+    {
+      "id" :  3,
+      "drinkName" :  "글렌고인3"
+    },
+    {
+      "id" :  4,
+      "drinkName" :  "글렌고인4"
+    }
+    ]
+}

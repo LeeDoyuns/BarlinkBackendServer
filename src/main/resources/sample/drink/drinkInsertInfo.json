@@ -1,0 +1,19 @@
+{
+    "parentCategory": "주종",
+    "childCategory": "2차분류",
+    "drinkName": "글렌피딕",
+    "age": "18",
+    "volume": 700,
+    "cost": 150000,
+    "buyDate": "2021-07-31",
+    "note": "메모메모메모메모메모메모메모",
+    "storeId": 1,
+    "storeName": "상점명",
+    "basicAddress": "서울 구로구 디지털로 31길",
+    "detailAddress": "래미안아파트 108동 1004호",
+    "regionCode": 18371,
+    "latitude": 32.41,
+    "longitude": 40.21,
+    "callNumber": "010-2548-6707",
+    "regionName": "서울 구로구"
+}

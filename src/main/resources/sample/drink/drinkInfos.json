@@ -1,0 +1,19 @@
+{
+  "drink_infos" : [{
+    "id" : 1,
+    "drink_name" : "글렌고인",
+    "age" : "18",
+    "cost_min" : 180000,
+    "cost_max" : 210000,
+    "category_id" : 1
+  },
+    {
+    "id" : 2,
+    "drink_name" : "글렌고인",
+    "age" : "20",
+    "cost_min" : 150000,
+    "cost_max" : 200000,
+    "category_id" : 1
+    }
+  ]
+}

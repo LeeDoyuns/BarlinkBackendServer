@@ -1,0 +1,22 @@
+{
+    "new_drink_details" : [
+      {
+        "id" : 1,
+        "category" : "블랜디드 몰트",
+        "drink_name" : "메이커스 마커스",
+        "year" : "18",
+        "volume": 1000,
+        "cost" : 1200000,
+        "buy_date" : "2021-05-22"
+    },
+      {
+        "id" : 2,
+        "category" : "블랜디드 몰트2",
+        "drink_name" : "메이커스 마커스2",
+        "year" : "18",
+        "volume": 1000,
+        "cost" : 1100000,
+        "buy_date" : "2021-05-22"
+      }
+    ]
+}

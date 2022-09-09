@@ -1,0 +1,43 @@
+{
+    "drink_detail_info" : [{
+      "id" : 1,
+      "drink_name" : "글렌고인",
+      "age" : 18,
+      "description" : "글렌고인의 고급 싱글몰트 위스키를 소개합니다. 본 홈페이지에서는 글렌고인 12, 15, 18년 뿐만 아니라 글렌고인의 희귀하고 새로운 제품도 검새 가능합니다.",
+      "cost_average" : 47500,
+      "cost_min" : 40000,
+      "volume" : 700,
+      "cost_from_regdate" : "2020-01-01",
+      "cost_to_regdate" : "2020-03-07",
+      "total_count" : 1318,
+      "store" : [
+        {
+          "id" : 1,
+          "store_name" : "형준상회",
+          "basic_address" : "서울 중구",
+          "detail_address" : "남대문시장4길 3",
+          "cost" : 43000,
+          "buy_date" : "2020-12-01",
+          "buy_member" : "달토끼"
+        },
+        {
+          "id" : 2,
+          "store_name" : "형준상회",
+          "basic_address" : "서울 중구",
+          "detail_address" : "남대문시장4길 3",
+          "cost" : 43000,
+          "buy_date" : "2020-12-01",
+          "buy_member" : "달토끼"
+        },
+        {
+          "id" : 3,
+          "store_name" : "형준상회",
+          "basic_address" : "서울 중구",
+          "detail_address" : "남대문시장4길 3",
+          "cost" : 43000,
+          "buy_date" : "2020-12-01",
+          "buy_member" : "달토끼"
+        }
+      ]
+    }]
+}
